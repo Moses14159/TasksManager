@@ -1,0 +1,27 @@
+{
+  "name": "task-manager-pomodoro",
+  "version": "1.0.0",
+  "description": "任务管理应用，结合番茄钟技术",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "task-manager",
+    "pomodoro",
+    "productivity"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.7"
+  }
+}
